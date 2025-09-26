@@ -1,4 +1,4 @@
-# SQL Injection Lab - Pasindu
+# SQL Injection Lab
 
 A simple vulnerable login system made with PHP and MySQL to demonstrate **SQL Injection** attacks.
 
